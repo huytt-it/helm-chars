@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   hrm-chart:
   - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2023-02-06T21:59:57.3410816+07:00"
+    description: A Helm chart for HRM-mng api
+    digest: 97fc063878624a7103737424cfb7ccd6a43901b359db41eee8bfdd0b865d06b2
+    name: hrm-chart
+    type: application
+    urls:
+    - hrm-chart-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-06T21:48:15.8251598+07:00"
+    created: "2023-02-06T21:59:57.3400814+07:00"
     description: A Helm chart for HRM-mng api
     digest: f574fbce56d884a6639018136d12dea16920381f520f5668903ec4588f31f5ac
     name: hrm-chart
@@ -11,4 +21,4 @@ entries:
     urls:
     - hrm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-06T21:48:15.8241589+07:00"
+generated: "2023-02-06T21:59:57.3400814+07:00"
